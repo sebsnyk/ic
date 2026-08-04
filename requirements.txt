@@ -296,7 +296,7 @@ coverage[toml]==7.2.2 \
     --hash=sha256:e627dee428a176ffb13697a2c4318d3f60b2ccdde3acdc9b3f304206ec130ccd \
     --hash=sha256:efe1c0adad110bf0ad7fb59f833880e489a61e39d699d37249bdf42f80590169
     # via pytest-cov
-cryptography==39.0.2 \
+cryptography==49.0.0 \
     --hash=sha256:103e8f7155f3ce2ffa0049fe60169878d47a4364b277906386f8de21c9234aa1 \
     --hash=sha256:23df8ca3f24699167daf3e23e51f7ba7334d504af63a94af468f468b975b7dd7 \
     --hash=sha256:2725672bb53bb92dc7b4150d233cd4b8c59615cd8288d495eaa86db00d4e5c06 \
@@ -358,7 +358,7 @@ gitdb==4.0.10 \
     --hash=sha256:6eb990b69df4e15bad899ea868dc46572c3f75339735663b81de79b06f17eb9a \
     --hash=sha256:c286cf298426064079ed96a9e4a9d39e7f3e9bf15ba60701e95f5492f28415c7
     # via gitpython
-gitpython==3.1.31 \
+gitpython==3.1.57 \
     --hash=sha256:8ce3bcf69adfdf7c7d503e78fd3b1c492af782d58893b650adb2ac8912ddd573 \
     --hash=sha256:f04893614f6aa713a60cbbe1e6a97403ef633103cdd0ef5eb6efe0deb98dbe8d
     # via -r requirements.in
