@@ -515,7 +515,7 @@ node-semver==0.9.0 \
     --hash=sha256:04aa0b0016dbc06748d6378c42d8cf82a343415bd9fca6284f488041d08b33bb \
     --hash=sha256:8153270903772b1e59500ced6f0aca0f7bdb021651c27584e9283b7077b4916b
     # via -r requirements.in
-oauthlib==3.2.2 \
+oauthlib==4.0.0 \
     --hash=sha256:8139f29aac13e25d502680e9e19963e83f16838d48a0d71c287fe40e7067fbca \
     --hash=sha256:9859c40929662bec5d64f34d01c99e093149682a3f38915dc0655d5a633dd918
     # via requests-oauthlib
